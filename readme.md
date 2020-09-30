@@ -17,4 +17,4 @@ _Automatic_
 10. And that's it!!!
 
 ### Screenshots
-![Plugin Settings](img/screen1.png)
+![Plugin Settings](images/Foto-1.png)
