@@ -2,7 +2,7 @@
 /**
  * 
  */
-class ModelExtensionTotalSpecificPaymentDiscount extends Controller
+class ModelExtensionTotalPaymentDiscount extends Controller
 {
 	
 	public function getTotal($total)
